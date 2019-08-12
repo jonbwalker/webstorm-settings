@@ -1,0 +1,10 @@
+<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="ParameterInfo" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+</keymap>
