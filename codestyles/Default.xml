@@ -11,6 +11,12 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
+  <SassCodeStyleSettings>
+    <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
+  </SassCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
