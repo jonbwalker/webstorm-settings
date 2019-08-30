@@ -2,8 +2,6 @@
   <template name="$v" value="$scope.$variable$ = $value$;&#10;$END$" description="Defines a new $scope'd variable inside an AngularJS controller." toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JSP" value="false" />
-    </context>
+    <context />
   </template>
 </templateSet>
