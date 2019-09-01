@@ -4,10 +4,4 @@
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="vwatcher" value="watch: {&#10; $data$($newValue$, $oldValue$) {&#10;  $END$&#10; }&#10;}," description="Vue watcher" toReformat="true" toShortenFQNames="true">
-    <variable name="data" expression="" defaultValue="&quot;data&quot;" alwaysStopAt="true" />
-    <variable name="newValue" expression="" defaultValue="&quot;newValue&quot;" alwaysStopAt="true" />
-    <variable name="oldValue" expression="" defaultValue="&quot;oldValue&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
 </templateSet>
