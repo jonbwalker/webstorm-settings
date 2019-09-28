@@ -1,7 +1,0 @@
-<templateSet group="Vue">
-  <template name="vdata" value="data() {&#10; return {&#10;  $key$: $value$&#10; }&#10;}," description="Vue component data" toReformat="true" toShortenFQNames="true">
-    <variable name="key" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
-    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-</templateSet>
