@@ -1,0 +1,8 @@
+<templateSet group="Jest">
+  <template name="vuestore" value="import { shallowMount } from '@vue/test-utils';&#10;import { Store } from 'vuex-mock-store';&#10;import $filename$ from './$filename$';&#10;&#10;describe('$filename$', () =&gt; {&#10;    let store;&#10;    let mocks;&#10;    let wrapper;&#10;&#10;    beforeEach(() =&gt; {&#10;        store = new Store({ state: {} });&#10;        mocks = { $store: store };&#10;        wrapper = shallowMount($filename$, { mocks })&#10;    });&#10;&#10;    it('is a Vue instance', () =&gt; {&#10;        expect(wrapper.isVueInstance()).toBeTruthy();&#10;    });&#10;});" description="inserts store mock code block" toReformat="false" toShortenFQNames="true">
+    <variable name="filename" expression="fileNameWithoutExtension()(fileNameWithoutExtension()/(.*)\..+$/$1/" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
