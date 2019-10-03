@@ -15,10 +15,10 @@
     <mask>*.js || *.vue</mask>
     <mask>actions.js</mask>
     <mask>getters.js</mask>
-    <mask>*.sass</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.test.js</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
