@@ -18,6 +18,11 @@
   <codeStyleSettings language="CSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
   </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <arrangement>
+      <rules />
+    </arrangement>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
