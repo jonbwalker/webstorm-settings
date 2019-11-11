@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="New Frontend" />
-    <option name="defaultScopeName" value="New Frontend" />
-    <option name="SEARCH_SCOPE" value="New Frontend" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +18,8 @@
     <mask>getters.js</mask>
     <mask>*.sass</mask>
     <mask>*.php</mask>
-    <mask>*.test.js</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
