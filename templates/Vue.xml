@@ -1,0 +1,14 @@
+<templateSet group="Vue">
+  <template name="vcreate" value="created() {&#10;    $var$$END$&#10;}," description="Vue created lifecycle hook" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+  <template name="vmount" value="mounted() {&#10;    $var$$END$&#10;}," description="Vue mounted lifecycle hook" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+</templateSet>
