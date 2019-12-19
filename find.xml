@@ -3,6 +3,7 @@
     <option name="customScope" value="New Frontend" />
     <option name="defaultScopeName" value="New Frontend" />
     <option name="SEARCH_SCOPE" value="New Frontend" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,8 +18,8 @@
     <mask>getters.js</mask>
     <mask>*.vue</mask>
     <mask>*.sass</mask>
-    <mask>*.php</mask>
     <mask>*.test.js</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
