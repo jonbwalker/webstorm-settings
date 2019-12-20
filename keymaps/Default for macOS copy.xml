@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
