@@ -19,8 +19,8 @@
     <mask>getters.js</mask>
     <mask>*.sass</mask>
     <mask>*.php</mask>
-    <mask>*.vue</mask>
     <mask>*.test.js</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
