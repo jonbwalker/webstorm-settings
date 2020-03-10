@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="htmlLoaderMock" type="JavaScript" />
+      <mapping pattern="ReCaptchaClient" type="PHP" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
