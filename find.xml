@@ -19,8 +19,8 @@
     <mask>*.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
-    <mask>*.test.js</mask>
     <mask>*.sass</mask>
+    <mask>*.test.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
