@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vu" />
+    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +21,7 @@
     <mask>*.sass</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
-    <mask>*.test.js</mask>
     <mask>*.vu</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
