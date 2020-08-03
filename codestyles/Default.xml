@@ -13,6 +13,7 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <SassCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
   </SassCodeStyleSettings>
   <VueCodeStyleSettings>
@@ -33,6 +34,13 @@
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>
