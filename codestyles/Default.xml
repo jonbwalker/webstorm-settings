@@ -24,6 +24,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="120" />
+    <option name="WRAP_ON_TYPING" value="1" />
     <arrangement>
       <rules />
     </arrangement>
