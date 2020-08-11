@@ -7,4 +7,5 @@
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
     </context>
   </template>
+  <template name="hello" value="console.log('hi');$END$" description="inserts a console.log saying hi!" toReformat="false" toShortenFQNames="true" />
 </templateSet>
