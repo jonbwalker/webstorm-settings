@@ -7,5 +7,9 @@
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
     </context>
   </template>
-  <template name="hello" value="console.log('hi');$END$" description="inserts a console.log saying hi!" toReformat="false" toShortenFQNames="true" />
+  <template name="hi" value="console.log('hi');$END$" description="inserts a console.log saying hi!" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+    </context>
+  </template>
 </templateSet>
