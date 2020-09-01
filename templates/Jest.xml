@@ -5,4 +5,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="vtest" value="import { shallowMount } from '@vue/test-utils';&#10;import $filename$ from './$filename$';&#10;&#10;describe('$filename$', () =&gt; {&#10;    let wrapper;&#10;&#10;    beforeEach(() =&gt; {&#10;        wrapper = shallowMount($filename$)&#10;    });&#10;&#10;    it('should find the component name', () =&gt; {&#10;        expect(wrapper.vm.$options.name).toBe('$filename$');&#10;    });&#10;});" description="inserts basic vue test" toReformat="false" toShortenFQNames="true">
+    <variable name="filename" expression="fileNameWithoutExtension()(fileNameWithoutExtension()/(.*)\..+$/$1/" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
