@@ -22,7 +22,7 @@
     <mask>*.php</mask>
     <mask>*.vu</mask>
     <mask>*.sass</mask>
-    <mask>*.vue</mask>
     <mask>*.test.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
