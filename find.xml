@@ -18,10 +18,10 @@
     <mask>*.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.vu</mask>
-    <mask>*.sass</mask>
     <mask>*.test.js</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
