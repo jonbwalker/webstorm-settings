@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +18,6 @@
     <mask>*.js || *.vue</mask>
     <mask>actions.js</mask>
     <mask>getters.js</mask>
-    <mask>*.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.vu</mask>
     <mask>*.test.js</mask>
@@ -23,5 +25,6 @@
     <mask>*.sass</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
