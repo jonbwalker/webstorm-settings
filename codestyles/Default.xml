@@ -26,30 +26,7 @@
     <option name="RIGHT_MARGIN" value="120" />
     <option name="WRAP_ON_TYPING" value="1" />
     <arrangement>
-      <rules>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <NAME>class</NAME>
-                <XML_ATTRIBUTE />
-                <XML_NAMESPACE>attributes</XML_NAMESPACE>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <NAME>v-if</NAME>
-                <XML_ATTRIBUTE />
-                <XML_NAMESPACE>attributes</XML_NAMESPACE>
-              </AND>
-            </match>
-          </rule>
-        </section>
-      </rules>
+      <rules />
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
