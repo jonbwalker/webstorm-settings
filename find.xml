@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="New Frontend" />
     <option name="defaultScopeName" value="New Frontend" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="New Frontend" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
