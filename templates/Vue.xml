@@ -24,4 +24,12 @@
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="comp" value="$name$() {&#10;  return this.$data$ $END$;&#10;}," description="vue computed property" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
