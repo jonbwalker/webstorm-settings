@@ -17,11 +17,11 @@
     <mask>getters.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.vu</mask>
-    <mask>*.test.js</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.sass</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
