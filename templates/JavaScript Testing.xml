@@ -1,0 +1,34 @@
+<templateSet group="JavaScript Testing">
+  <template name="jdescr" value="describe('$NAME$', () =&gt; {&#10;  $END$&#10;});" description="Inserts describe() block" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="jbfe" value="beforeEach(() =&gt; {&#10;  $END$&#10;});" description="Inserts beforeEach() block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="jit" value="it('should $NAME$', () =&gt; {&#10;  $END$&#10;}); " description="Inserts it() block" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="afe" value="afterEach(() =&gt; {&#10;  $END$&#10;});" description="Inserts afterEach() block" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="af" value="after(() =&gt; {&#10;  $END$&#10;});" description="Inserts after() block" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="bf" value="before(() =&gt; {&#10;  $END$&#10;});" description="Inserts before() block" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="jex" value="expect($NAME$).toBe($END$);" description="Inserts excpect statement" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

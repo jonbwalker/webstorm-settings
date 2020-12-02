@@ -1,0 +1,28 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/chart.js" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/moment-timezone" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mongodb" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/npm" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/webpack" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>

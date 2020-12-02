@@ -1,0 +1,35 @@
+<templateSet group="Vue">
+  <template name="vcreate" value="created() {&#10;    $var$$END$&#10;}," description="Vue created lifecycle hook" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+  <template name="vmount" value="mounted() {&#10;    $var$$END$&#10;}," description="Vue mounted lifecycle hook" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+  <template name="vset" value="$name$: {&#10;    get() {&#10;        return this.$store.state.$var1$;&#10;    },&#10;    set(value) {&#10;        this.$store.commit('$var1$/$var2$', value);$END$&#10;    }&#10;}" description="Vue computed getter/setter" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+  <template name="vdata" value="data: () =&gt; ({&#10;    $key$: $value$&#10;})," description="Vue component data" toReformat="true" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="comp" value="$name$() {&#10;  return this.$data$ $END$;&#10;}," description="vue computed property" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

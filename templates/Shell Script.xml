@@ -1,0 +1,5 @@
+<templateSet group="Shell Script">
+  <template name="bash" value="#!/usr/bin/env bash&#10;" description="Shebang line" toReformat="false" toShortenFQNames="false" />
+  <template name="sh" value="#!/usr/bin/env sh&#10;" description="Shebang line" toReformat="false" toShortenFQNames="false" />
+  <template name="zsh" value="#!/usr/bin/env zsh&#10;" description="Shebang line" toReformat="false" toShortenFQNames="false" />
+</templateSet>
