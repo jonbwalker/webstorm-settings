@@ -22,9 +22,12 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="ParameterInfo" />
   <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt 1" />
