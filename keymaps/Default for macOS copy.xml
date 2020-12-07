@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
