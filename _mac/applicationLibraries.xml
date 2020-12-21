@@ -20,6 +20,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/testing-library__jest-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/webpack" type="javaScript">
       <CLASSES />
       <SOURCES />
