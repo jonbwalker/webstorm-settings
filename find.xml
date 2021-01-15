@@ -21,8 +21,8 @@
     <mask>*.vue, *.js</mask>
     <mask>*.sass</mask>
     <mask>*.js</mask>
-    <mask>*.mixin.js</mask>
     <mask>*.test.js</mask>
     <mask>*.vue</mask>
+    <mask>*.mixin.js</mask>
   </component>
 </application>
