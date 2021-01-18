@@ -1,7 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="Vue Component + Test.vue" reformat="true" live-template-enabled="false">
+      <template name="Vue Component + Test.vue" reformat="true" live-template-enabled="true">
         <template name="Vue Component + Test.vue.child.0༏ext༏.test.js" file-name="${NAME}" reformat="true" live-template-enabled="false" />
       </template>
       <template name="Vue Component + Test.vue.child.0༏ext༏.test.js" file-name="${NAME}" reformat="true" live-template-enabled="false" />
