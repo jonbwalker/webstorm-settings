@@ -32,4 +32,12 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="vsetprop" value="$name$: {&#10;    get() {&#10;        return this.$var1$;&#10;    },&#10;    set(value) {&#10;        this.$emit('$var2$', value$END$)&#10;    }&#10;}" description="Vue computed with getter/setter from prop" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
