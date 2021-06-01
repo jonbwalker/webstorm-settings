@@ -20,9 +20,9 @@
     <mask>*.mixin.js</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
     <mask>*.sass</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
