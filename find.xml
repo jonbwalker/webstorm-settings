@@ -3,7 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.test.js" />
+    <option name="FILE_MASK" value="*.vue, *.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,8 +22,8 @@
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.sass</mask>
-    <mask>*.vue, *.js</mask>
     <mask>*.php</mask>
     <mask>*.test.js</mask>
+    <mask>*.vue, *.js</mask>
   </component>
 </application>
