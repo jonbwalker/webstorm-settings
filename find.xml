@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.vue, *.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,7 +25,7 @@
     <mask>*.vue</mask>
     <mask>*.sass</mask>
     <mask>*.php</mask>
-    <mask>*.vue, *.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.vue, *.js</mask>
   </component>
 </application>
