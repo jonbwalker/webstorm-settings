@@ -21,8 +21,8 @@
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.sass</mask>
-    <mask>*.php</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
