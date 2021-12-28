@@ -5,12 +5,9 @@
     <option name="SEARCH_SCOPE" value="EmailEditorV2" />
     <option name="FILE_MASK" value="*.vue, *.js" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>.test</mask>
     <mask>*.js || *.vue</mask>
@@ -19,11 +16,22 @@
     <mask>*.blade.php</mask>
     <mask>*.vu</mask>
     <mask>*.mixin.js</mask>
-    <mask>*.js</mask>
     <mask>*.sass</mask>
     <mask>*.test.js</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
     <mask>*.vue, *.js</mask>
   </component>
 </application>
