@@ -3,7 +3,7 @@
     <option name="customScope" value="EmailEditorV2" />
     <option name="defaultScopeName" value="EmailEditorV2" />
     <option name="SEARCH_SCOPE" value="EmailEditorV2" />
-    <option name="FILE_MASK" value="*.vue, *.js" />
+    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -17,7 +17,6 @@
     <mask>*.vu</mask>
     <mask>*.mixin.js</mask>
     <mask>*.sass</mask>
-    <mask>*.test.js</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.xml</mask>
@@ -33,5 +32,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.vue, *.js</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
