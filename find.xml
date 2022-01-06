@@ -18,6 +18,8 @@
     <mask>*.sass</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.vue, *.js</mask>
+    <mask>*.test.js</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -30,7 +32,5 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.vue, *.js</mask>
-    <mask>*.test.js</mask>
   </component>
 </application>
