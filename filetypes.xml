@@ -4,7 +4,6 @@
       <mapping pattern="ShowListRequest.php" type="AUTO_DETECTED" />
       <mapping pattern="htmlLoaderMock" type="JavaScript" />
       <mapping pattern="hide" type="JavaScript" />
-      <mapping pattern="ReCaptchaClient" type="PHP" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
