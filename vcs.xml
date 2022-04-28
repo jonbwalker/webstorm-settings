@@ -29,7 +29,4 @@
     <option name="SHOW_EDITOR_PREVIEW_ON_DOUBLE_CLICK" value="false" />
     <option name="SHOW_DIFF_ON_DOUBLE_CLICK" value="true" />
   </component>
-  <component name="VcsEditorTab.Settings">
-    <option name="openInNewWindow" value="true" />
-  </component>
 </application>
