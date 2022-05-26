@@ -3,6 +3,7 @@
     <option name="customScope" value="EmailEditorV2" />
     <option name="defaultScopeName" value="EmailEditorV2" />
     <option name="SEARCH_SCOPE" value="EmailEditorV2" />
+    <option name="FILE_MASK" value="getters.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -11,7 +12,6 @@
     <mask>.test</mask>
     <mask>*.js || *.vue</mask>
     <mask>actions.js</mask>
-    <mask>getters.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.vu</mask>
     <mask>*.mixin.js</mask>
@@ -32,5 +32,6 @@
     <mask>*.test.js</mask>
     <mask>*.sass</mask>
     <mask>*.vue, *.js</mask>
+    <mask>getters.js</mask>
   </component>
 </application>
