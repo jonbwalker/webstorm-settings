@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="EmailEditorV2" />
     <option name="defaultScopeName" value="EmailEditorV2" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="EmailEditorV2" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
