@@ -31,6 +31,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift meta alt s" />
+  </action>
   <action id="ParameterInfo" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta o" />
