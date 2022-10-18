@@ -3,7 +3,6 @@
     <option name="customScope" value="EmailEditorV2" />
     <option name="defaultScopeName" value="EmailEditorV2" />
     <option name="SEARCH_SCOPE" value="EmailEditorV2" />
-    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
