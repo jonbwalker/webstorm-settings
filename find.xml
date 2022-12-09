@@ -3,7 +3,6 @@
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
     <option name="SEARCH_SCOPE" value="Changes" />
-    <option name="FILE_MASK" value="*.vue, *.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.sass</mask>
     <mask>*.test.js</mask>
     <mask>*.vue, *.js</mask>
+    <mask>*.vue, *.js, *.sass</mask>
   </component>
 </application>
